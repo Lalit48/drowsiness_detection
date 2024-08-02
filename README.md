@@ -1,7 +1,5 @@
 # drowsiness_detection
 
-Your code is a driver drowsiness detection system that uses computer vision and machine learning to monitor a driver's eye state and alert them if they appear drowsy. Here's a breakdown of the key components and functionality:
-
 ### Key Components
 
 1. **Libraries and Modules:**
@@ -47,4 +45,3 @@ Your code is a driver drowsiness detection system that uses computer vision and 
 - **Error Handling:** Handle potential errors, such as missing shape predictor files or failed SMS sends.
 - **Optimization:** Consider optimizing the alerting system to prevent false positives and ensure timely alerts.
 
-This system aims to improve road safety by alerting drivers when they are drowsy, potentially preventing accidents.
