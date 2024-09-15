@@ -1,4 +1,4 @@
-# drowsiness_detection
+# Drowsiness Detection
 
 ### Key Components
 
